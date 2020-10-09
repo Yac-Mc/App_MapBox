@@ -7,7 +7,9 @@ Reconstruir módulos de Node
 npm install
 ```
 levantar aplicación
+```
 ng serve
+```
 
 ## Backend: Express - Sockect
 
